@@ -2,7 +2,7 @@
 from ast import keyword
 import random
 from words import Word
-from letters import Letters
+#from letters import Letters
 class Game():
 
 
