@@ -1,4 +1,4 @@
-from jumper import Game
+from Jumper import Game
 
 director = Game()
 director.main()
